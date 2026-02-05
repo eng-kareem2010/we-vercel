@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://we-school-gharbia.vercel.app/">
+<urlset xmlns="http://www.sitemaps.org">
 
     <url>
         <loc>https://we-school-gharbia.vercel.app/index.html</loc>
         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
-        <loc>https://we-school-gharbia.vercel.app/tables.php</loc>
+        <loc>https://we-school-gharbia.vercel.app/tables.html</loc>
         <lastmod>2026-02-05</lastmod>
     </url>
 
