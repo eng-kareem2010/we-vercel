@@ -249,7 +249,7 @@ button {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    gap: 105px;
+    gap: 110px;
 }
 
 .card {
